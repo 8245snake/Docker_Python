@@ -41,7 +41,7 @@ setuptools==42.0.2
 six==1.13.0
 sqlite3-api==1.0.4
 twitter==1.18.0
-urllib3==1.25.7
+urllib3==1.25.8
 wcwidth==0.1.8
 Werkzeug==0.16.0
 yarl==1.4.2
